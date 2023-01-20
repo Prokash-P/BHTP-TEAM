@@ -32,4 +32,14 @@ rm -rf BHTP-TEAM
 git clone https://github.com/Prokash-P/BHTP-TEAM.git
 
 cd BHTP-TEAM
-gg
+
+python BHTP-TEAM.py
+
+# Join Our Facebook Pages ⬇️:
+
+https://www.facebook.com/profile.php?id=100086521818069
+
+
+
+
+
