@@ -1,6 +1,19 @@
 # BHTP-TEAM 
-#
-# pkg update
+# Features⬇️:
+
+➡️ File Cloning
+
+➡️ Public Cloning
+
+➡️ Create File
+
+➡️ 2009-10 Cloning
+
+➡️ 2011-14 Cloning
+
+# Installation ⬇️:
+
+pkg update
 
 pkg upgrade
 
@@ -14,9 +27,6 @@ pip install bs4
 
 pip install rich
 
-rm -rf 
+rm -rf BHTP-TEAM
 
-
-
-
-
+git clone 
