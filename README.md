@@ -29,4 +29,6 @@ pip install rich
 
 rm -rf BHTP-TEAM
 
-git clone 
+git clone https://github.com/Prokash-P/BHTP-TEAM.git
+
+cd BHTP-TEAM
